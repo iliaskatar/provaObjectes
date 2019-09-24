@@ -107,7 +107,7 @@ public class primera {
 
 
             //exemples
-
+/*
             float v1;
             System.out.println("intrudueix el primer numero");
             v1 = Float.parseFloat(System.console().readLine());;
@@ -147,6 +147,6 @@ public class primera {
         int resultat3;
         
         resultat3 = numero * numero2;
-        System.out.println(resultat3);
+        System.out.println(resultat3);*/
     }
 }
