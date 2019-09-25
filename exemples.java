@@ -1,6 +1,6 @@
-public class exemples{
+/*public class exemples{
     public static void main(String[] args) {
         
     }
 
-}
+}*/
