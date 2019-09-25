@@ -239,7 +239,7 @@ public class primera {
             */
 
             // practica 1 ex.4
-            
+            /*
             System.out.print("Introdueix el nom de l´article: ");
             String nom = System.console().readLine();
 
@@ -258,6 +258,31 @@ public class primera {
              preu_final = preu * (1- (descompte/100));
 
              System.out.println(" el producte " + nom + " El preu final de l'article és de : " + preu_final);
+             */
+             /// exercici clase: escriure 3 noms i treure un aleatori 
+            
+             System.out.print("Introdueix el primer nom: ");
+             String nom1 = System.console().readLine();
+
+             System.out.print("Introdueix el segon nom : ");
+             String nom2 = System.console().readLine();
+
+             System.out.print("Introdueix el tercer nom : ");
+            String nom3 = System.console().readLine();
+
+            String ArrayNom[]= {nom1,nom2,nom3};
+
+            //es per treure un numero eleatori(el (int) es perque la systema.currentimemillis es long )
+            int pocisio =(int)System.currentTimeMillis()%3;
+         
+
+             System.out.println("el guanyador es : " + ArrayNom[pocisio]);
+
+
+
+
+
+
 
     }
     /*public static void suma(int numero, int numero2) {
