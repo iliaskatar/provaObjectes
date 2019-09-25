@@ -127,7 +127,7 @@ public class practica1 {
 
 */
              // practica 1 ex.4
-            
+            /*
              System.out.print("Introdueix el nom de l´article: ");
              String nom = System.console().readLine();
  
@@ -146,8 +146,7 @@ public class practica1 {
               preu_final = preu * (1- (descompte/100));
  
               System.out.println(" el producte " + nom + " El preu final de l'article és de : " + preu_final);
-        
-
+        */
         
     }
 }
