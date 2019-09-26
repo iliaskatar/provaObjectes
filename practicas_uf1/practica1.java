@@ -1,5 +1,6 @@
 package practicas_uf1;
 
+import java.lang.reflect.Array;
 /**
  * practica1
  */
@@ -257,7 +258,7 @@ public class practica1 {
 
 
         // practica 1 ex.6
-
+/*
         long comensa = 0;
         boolean parar = false;
         long temps =0;
@@ -285,8 +286,39 @@ public class practica1 {
       //System.out.println(System.currentTimeMillis());
       temps =(System.currentTimeMillis() - comensa);
       System.out.println(" has tardat " + temps);
+      */
+      // practica 1 ex.7
 
 
+
+
+      
+      System.out.println("escriu un numero de 3 xifres");
+      int escriu = Integer.parseInt(System.console().readLine());
+
+       //Array[] sorteig = {0, 0, 0};
+       
+
+       while(escriure >= 000)
+       {
+    
+          int sorteig = random.nextInt(999);
+         
+
+          if(sorteig == escriure)
+          {
+              System.out.println("has guanyat -1 millo");
+          }
+          else
+          {
+
+          }
+        }
+      System.out.println("el numero " + escriu + " es igual " + sorteig[i]);
+
+
+
+      
 
     }
 }
