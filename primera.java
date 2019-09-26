@@ -260,7 +260,7 @@ public class primera {
              System.out.println(" el producte " + nom + " El preu final de l'article és de : " + preu_final);
              */
              /// exercici clase: escriure 3 noms i treure un aleatori 
-            
+            /*
              System.out.print("Introdueix el primer nom: ");
              String nom1 = System.console().readLine();
 
@@ -277,7 +277,7 @@ public class primera {
          
 
              System.out.println("el guanyador es : " + ArrayNom[pocisio]);
-
+*/
 
 
 
