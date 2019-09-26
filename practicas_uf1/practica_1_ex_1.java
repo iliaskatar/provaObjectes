@@ -12,5 +12,6 @@ public class practica_1_ex_1 {
         System.out.print("Introdueix ara el domini:");
         String email = System.console().readLine();
         System.out.println("el teu correu es : " + nom + "." + cognom +"@"+email);
+        
     }
 }
