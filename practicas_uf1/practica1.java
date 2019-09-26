@@ -93,7 +93,7 @@ public class practica1 {
                     }
 
             }
-            if(edat >= 16 && edat <= 65)
+            if(edat < 65)
             {
                 System.out.println(" es major");
                 
@@ -253,8 +253,38 @@ public class practica1 {
         }
         System.out.println(""+ nom + " tens " + punts + " punts");
 
-        
-*/
+        */
+
+
+        // practica 1 ex.6
+
+        long comensa = 0;
+        boolean parar = false;
+        long temps =0;
+      System.out.println(" Escriu correctement la frase ");
+      comensa = System.currentTimeMillis();
+      System.out.println(comensa);
+      while(parar == false)
+      {
+          
+        System.out.println("a");
+        System.out.println("\n");
+        String escriu = System.console().readLine();
+
+        if(escriu.equalsIgnoreCase("a"))
+            {
+                System.out.println("!!!!! CORRECTE !!!!!") ;
+                parar = true;
+            }
+        else
+            {
+                System.out.println("escriu la frase que demana correctament.");
+            }
+
+      }
+      //System.out.println(System.currentTimeMillis());
+      temps =(System.currentTimeMillis() - comensa);
+      System.out.println(" has tardat " + temps);
 
 
 
