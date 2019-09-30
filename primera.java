@@ -282,11 +282,51 @@ public class primera {
          
 
              System.out.println("el guanyador es : " + ArrayNom[pocisio]);
+
 */
 
 
+/*
+int mumrto = 5;
+if (numero%2==0)
+System.out.println("El número es par");
+else
+System.out.println("El número es impar");*/
+
+/*
+int edat;
+System.out.println("Dime tu edad: ");
+edad = escaner.nextInt();
 
 
+if (edat >= 18){
+    System.out.println("major de edat");
+}else{
+    System.out.println("Menor de edat");
+
+*/
+
+Scanner reader = new Scanner(System.in);
+
+int numero1 = 0;
+int numero2 = 0;
+int numero3 = 0;
+int numero4 = 0;
+int numero5 = 0;
+ 
+System.out.println("intrudueix el primer número:");			
+numero1 = reader.nextInt();
+System.out.println("intrudueix el segundo número:");
+numero2 = reader.nextInt();
+System.out.println("intrudueix el tercer número:");			
+numero3 = reader.nextInt();
+System.out.println("intrudueix el quart número:");
+numero4 = reader.nextInt();
+System.out.println("intrudueix el cinque número:");			
+numero5 = reader.nextInt();
+ 
+resultado = numero1+numero2+numero3+numero4+numero5;
+System.out.println("La suma es " + numero1 + " + " + numero2 + " + " + numero3 + " + " + numero4 + " + " + numero5 + " = " + resultado);
 
 
     }
@@ -316,4 +356,8 @@ public class primera {
         System.out.println(resultat3);
     
     }*/
+
+
+   
+
 }

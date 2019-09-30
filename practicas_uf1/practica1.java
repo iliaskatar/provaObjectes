@@ -285,8 +285,8 @@ public class practica1 {
       }
       //System.out.println(System.currentTimeMillis());
       temps =(System.currentTimeMillis() - comensa);
-      System.out.println(" has tardat " + temps);
-      */
+      System.out.println(" has tardat " + temps);*/
+      
       // practica 1 ex.7
 
 
@@ -311,7 +311,7 @@ public class practica1 {
           }
           else
           {
-
+              
           }
         }
       System.out.println("el numero " + escriu + " es igual " + sorteig[i]);
