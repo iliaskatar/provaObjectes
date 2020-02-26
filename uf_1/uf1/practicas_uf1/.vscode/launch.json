@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practica_2_ex_5",
+            "request": "launch",
+            "mainClass": "practica_2_ex_5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pracrica_2_ex_4",
+            "request": "launch",
+            "mainClass": "pracrica_2_ex_4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practica_2_ex_3",
+            "request": "launch",
+            "mainClass": "practica_2_ex_3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practica_1_ex_9",
+            "request": "launch",
+            "mainClass": "practica_1_ex_9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practica_2_ex_1",
+            "request": "launch",
+            "mainClass": "practica_2_ex_1"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - montararrays",
+            "request": "launch",
+            "mainClass": "montararrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - euroMillon",
+            "request": "launch",
+            "mainClass": "euroMillon"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Users"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JOCtORT",
+            "request": "launch",
+            "mainClass": "JOCtORT"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a",
+            "request": "launch",
+            "mainClass": "a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Paraula",
+            "request": "launch",
+            "mainClass": "Paraula"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuscaMinas",
+            "request": "launch",
+            "mainClass": "BuscaMinas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_6",
+            "request": "launch",
+            "mainClass": "ex_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bingom",
+            "request": "launch",
+            "mainClass": "Bingom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bingo",
+            "request": "launch",
+            "mainClass": "Bingo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bingo",
+            "request": "launch",
+            "mainClass": "bingo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bingo",
+            "request": "launch",
+            "mainClass": "bingo",
+            "projectName": "exercicis facils 2_b7501d68"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_5",
+            "request": "launch",
+            "mainClass": "ex_5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_4",
+            "request": "launch",
+            "mainClass": "ex_4"
+        }
+    ]
+}

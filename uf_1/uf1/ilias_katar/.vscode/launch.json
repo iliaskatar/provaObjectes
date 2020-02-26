@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_5",
+            "request": "launch",
+            "mainClass": "ex_5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_3",
+            "request": "launch",
+            "mainClass": "ex_3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_2",
+            "request": "launch",
+            "mainClass": "ex_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_1",
+            "request": "launch",
+            "mainClass": "ex_1"
+        }
+    ]
+}
